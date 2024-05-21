@@ -1,3 +1,6 @@
+# modified from the originial code: 
+# https://www.analyticsvidhya.com/blog/2022/05/knapsack-problem-in-python/
+
 from fractions import Fraction
 import time
 

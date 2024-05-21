@@ -1,3 +1,6 @@
+# modified from the originial code: 
+# https://high-python-ext-3-algorithms.readthedocs.io/ko/latest/chapter8.html
+
 import time
 
 class Item(object):
