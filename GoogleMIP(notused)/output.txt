@@ -1,0 +1,39 @@
+Total packed value: 556.0
+Bin 0
+Item 30 weight: 26 value: 23
+Item 31 weight: 30 value: 40
+Item 44 weight: 24 value: 32
+Item 48 weight: 20 value: 27
+Packed bin weight: 100
+Packed bin value: 122
+
+Bin 1
+Item 6 weight: 42 value: 35
+Item 16 weight: 25 value: 28
+Item 32 weight: 33 value: 30
+Packed bin weight: 100
+Packed bin value: 93
+
+Bin 2
+Item 13 weight: 25 value: 39
+Item 34 weight: 24 value: 35
+Item 52 weight: 24 value: 37
+Item 54 weight: 27 value: 27
+Packed bin weight: 100
+Packed bin value: 138
+
+Bin 3
+Item 5 weight: 32 value: 39
+Item 23 weight: 36 value: 36
+Item 26 weight: 32 value: 28
+Packed bin weight: 100
+Packed bin value: 103
+
+Bin 4
+Item 3 weight: 28 value: 34
+Item 38 weight: 38 value: 31
+Item 51 weight: 33 value: 35
+Packed bin weight: 99
+Packed bin value: 100
+
+Total packed weight: 499
